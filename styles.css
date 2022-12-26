@@ -1,0 +1,86 @@
+#Principale{
+    height: taille_fixe px;
+    width: 100%;
+    margin: 0auto;
+}
+
+#premiercoté {
+    text-align: center;
+    color: white;
+background-color: rgb(61, 83, 83);
+    margin: auto;
+    width: 50;
+    height: 100%;
+    float: left;
+}
+
+#deuxiemecôté { 
+    align: center;
+    text-align: center;
+    display: inline-block;
+}
+
+#profil {
+    text-align: center;
+    background-color: rgb(61, 83, 83);
+    margin: auto;
+    width: 70%;
+    height: 50% auto;
+    border-radius: 20%;
+
+    width: 50%;
+    height: 100%;
+}
+
+#profi {
+    text-align: center;
+    background-color: rgb(61, 83, 83);
+    margin: auto;
+    width: 25%;
+    height: 40% auto;
+    border-radius: 20%;
+   
+}
+
+#block{
+    align: center;
+    text-align: center;
+    display: inline-block;
+}
+#tableau{
+    align: center;
+    text-align: center;
+    display: inline-block;
+}
+#police{
+    color: white;
+}
+#entete {
+    background-color: rgb(129, 137, 139);
+}
+#couleur1 {
+background-color: rgb(211, 223, 230);
+}
+
+#couleur2 {
+    background-color: white;
+}
+
+#table{
+    border-style: solid;border-color:rgb(129, 137, 139) ;
+    text-align: left;
+}
+
+#description {
+   
+    background-color: white;
+    text-align: center;
+    width: 70%;
+    height: 100% ;
+}
+#contact{
+    text-align: left;   
+}
+#paragraphe {
+    text-align: center;
+}
